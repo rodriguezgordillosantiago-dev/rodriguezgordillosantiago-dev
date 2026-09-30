@@ -45,3 +45,5 @@ Si deseas conocer más sobre mi perfil o agendar una entrevista para contrato de
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguezgordillosantiago@gmail.com)
 
+📧 **Correo:** [rodriguezgordillosantiago@gmail.com](mailto:rodriguezgordillosantiago@gmail.com)
+
