@@ -23,6 +23,7 @@ Soy una persona **proactiva y con iniciativa**, con una gran capacidad para el a
 
 ### 📱 Desarrollo Móvil
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) *(Nivel Básico)*
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) *(Básico)*
 
 ---
 
@@ -45,5 +46,5 @@ Si deseas conocer más sobre mi perfil o agendar una entrevista para contrato de
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguezgordillosantiago@gmail.com)
 
-📧 **Correo:** [rodriguezgordillosantiago@gmail.com](mailto:rodriguezgordillosantiago@gmail.com)
+**Correo:** [rodriguezgordillosantiago@gmail.com](mailto:rodriguezgordillosantiago@gmail.com)
 
