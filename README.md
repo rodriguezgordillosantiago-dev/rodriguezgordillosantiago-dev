@@ -1,16 +1,46 @@
-## Hi there 👋
+# ¡Hola! Soy Santiago Rodríguez 👋
 
-<!--
-**rodriguezgordillosantiago-dev/rodriguezgordillosantiago-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Sobre mí
+Actualmente soy **Aprendiz en etapa lectiva del SENA** (Servicio Nacional de Aprendizaje). Me encuentro en la búsqueda activa de una empresa patrocinadora para iniciar mi **Contrato de Aprendizaje** y aportar valor en el área de desarrollo de software.
 
-Here are some ideas to get you started:
+Soy una persona **proactiva y con iniciativa**, con una gran capacidad para el autoaprendizaje y el trabajo en equipo. Frente a los retos técnicos o lógicos, **tiendo a ser muy enfocado en buscar soluciones**, apoyándome en la investigación, la documentación y la práctica constante para estructurar mis proyectos y seguir mejorando mis habilidades en el desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas:
+
+### 🌐 Desarrollo Web (Frontend & Backend)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![PHP](https://shields.io)
+![Laravel](https://shields.io) *(Nivel Básico)*
+
+### 🗄️ Bases de Datos
+![MySQL](https://shields.io)
+![phpMyAdmin](https://shields.io)
+
+### 🚀 Control de Versiones 
+![Git](https://shields.io) *(Básico)*
+![GitHub](https://shields.io) *(Básico)*
+
+### 📱 Desarrollo Móvil
+![Android Studio](https://shields.io) *(Nivel Básico)*
+
+---
+
+## 📐 Análisis y Modelado de Software
+En mi formación en el SENA he venido conociendo y practicando la creación de herramientas de planeación como:
+* **Diagramas de Procesos / Flujo:** Para entender la lógica del negocio.
+* **Diagramas de Casos de Uso:** Para definir el comportamiento y roles del sistema.
+* **Diagramas de Clases:** Para guiarme en la estructura del código bajo el paradigma POO.
+* **Modelo Entidad-Relación (MER):** Para el diseño de bases de datos relacionales.
+
+---
+
+## 📂 Proyectos del SENA
+En mis repositorios comparto los sistemas y el código fuente de los proyectos prácticos y ejercicios que he desarrollado durante mi formación en el SENA.
+
+---
+
+## 🤝 ¿Interesado en patrocinarme? ¡Hablemos!
+Si deseas conocer más sobre mi perfil o agendar una entrevista para contrato de aprendizaje, puedes contactarme directamente por correo electrónico:
+
+[![Gmail](https://shields.io)](mailto:rodriguezgordillosantiago@gmail.com)
