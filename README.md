@@ -41,7 +41,8 @@ En mis repositorios comparto los sistemas y el código fuente de los proyectos p
 ---
 
 ## 🤝 ¿Interesado en patrocinarme? ¡Hablemos!
-Si deseas conocer más sobre mi perfil o agendar una entrevista para contrato de aprendizaje, puedes contactarme directamente por correo electrónico:
+Si deseas conocer más sobre mi perfil o agendar una entrevista para contrato de aprendizaje, puedes contactarme directamente:
 
 [![Gmail](https://shields.io)](mailto:rodriguezgordillosantiago@gmail.com)
+[![LinkedIn](https://shields.io)](TU_LINKEDIN_AQUÍ)
 
