@@ -44,3 +44,4 @@ En mis repositorios comparto los sistemas y el código fuente de los proyectos p
 Si deseas conocer más sobre mi perfil o agendar una entrevista para contrato de aprendizaje, puedes contactarme directamente por correo electrónico:
 
 [![Gmail](https://shields.io)](mailto:rodriguezgordillosantiago@gmail.com)
+
