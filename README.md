@@ -8,21 +8,21 @@ Soy una persona **proactiva y con iniciativa**, con una gran capacidad para el a
 ## 🛠️ Tecnologías y Herramientas:
 
 ### 🌐 Desarrollo Web (Frontend & Backend)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![PHP](https://shields.io)
-![Laravel](https://shields.io) *(Nivel Básico)*
+<img src="https://shields.io" alt="HTML5"/>
+<img src="https://shields.io" alt="CSS3"/>
+<img src="https://shields.io" alt="PHP"/>
+<img src="https://shields.io" alt="Laravel"/> *(Nivel Básico)*
 
 ### 🗄️ Bases de Datos
-![MySQL](https://shields.io)
-![phpMyAdmin](https://shields.io)
+<img src="https://shields.io" alt="MySQL"/>
+<img src="https://shields.io" alt="phpMyAdmin"/>
 
 ### 🚀 Control de Versiones 
-![Git](https://shields.io) *(Básico)*
-![GitHub](https://shields.io) *(Básico)*
+<img src="https://shields.io" alt="Git"/> *(Básico)*
+<img src="https://shields.io" alt="GitHub"/> *(Básico)*
 
 ### 📱 Desarrollo Móvil
-![Android Studio](https://shields.io) *(Nivel Básico)*
+<img src="https://shields.io" alt="Android Studio"/> *(Nivel Básico)*
 
 ---
 
@@ -43,5 +43,6 @@ En mis repositorios comparto los sistemas y el código fuente de los proyectos p
 ## 🤝 ¿Interesado en patrocinarme? ¡Hablemos!
 Si deseas conocer más sobre mi perfil o agendar una entrevista para contrato de aprendizaje, puedes contactarme directamente por correo electrónico:
 
-[![Gmail](https://shields.io)](mailto:rodriguezgordillosantiago@gmail.com)
-
+<a href="mailto:rodriguezgordillosantiago@gmail.com">
+  <img src="https://shields.io" alt="Gmail"/>
+</a>
